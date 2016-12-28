@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Fkomoditi_terdekat"
+            android:icon="@mipmap/ic_place_black_24dp"
+            android:title="Komoditi Terdekat" />
+        <item
+            android:id="@+id/nav_Fcari_komoditi"
+            android:icon="@mipmap/ic_search_black_24dp"
+            android:title="Cari Komoditi" />
+        <item
+            android:id="@+id/nav_Fadd_anggota"
+            android:icon="@mipmap/ic_person_add_black_24dp"
+            android:title="Tambah Anggota" />
+        <item
+            android:id="@+id/nav_Gberita"
+            android:icon="@mipmap/ic_note_add_black_24dp"
+            android:title="Berita" />
+
+    </group>
+
+
+
+</menu>
